@@ -7,6 +7,8 @@
     --font-light: 300;
     --font-normal: 400;
     --font-bold: 800;
+    --bg-color: #011638;
+    --white: #FFFFFF;
 }
 
 body, html {
